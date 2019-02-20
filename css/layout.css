@@ -24,4 +24,36 @@
 
 /* Positioning Classes */
 
+.column {
+  width: 31%;
+  display: inline-block;
+  }
+  
+.large {
+  width: 300%;
+  height: 300%;
+}
+
+.med {
+  width: 200%;
+  height: 200%;
+}
+
+.small {
+  width: 100%;
+  height: 100%;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
+
+
+  
+
+
 
